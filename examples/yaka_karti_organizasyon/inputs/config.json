@@ -1,0 +1,109 @@
+{
+    "image": "../inputs/yaka_karti_organizasyon.jpg",
+    "inputData": {
+        "totalRowsToFill": 4,
+        "dataFile": "../inputs/data_yaka_karti.numbers",
+        "textEntries": [
+            [
+                {
+                    "columnIndex": 3, 
+                    "xPosition": 385,
+                    "yPosition": 605,
+                    "fontsize": 25,
+                    "maxWidth": 590,
+                    "alignment": "center",
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 1,
+                    "xPosition": 385,
+                    "yPosition": 665,
+                    "fontsize": 25,
+                    "alignment": "center",
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 2,
+                    "xPosition": 385,
+                    "yPosition": 700,
+                    "fontsize": 35,
+                    "alignment": "center",
+                    "fontColor": "white"
+                }
+            ],
+            [
+                {
+                    "columnIndex": 3, 
+                    "xPosition": 1032,
+                    "yPosition": 605,
+                    "fontsize": 25,
+                    "maxWidth": 590,
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 1,
+                    "xPosition": 1032,
+                    "yPosition": 665,
+                    "fontsize": 25,
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 2,
+                    "xPosition": 1032,
+                    "yPosition": 700,
+                    "fontsize": 35,
+                    "fontColor": "white"
+                }
+            ],
+            [
+                {
+                    "columnIndex": 3, 
+                    "xPosition": 385,
+                    "yPosition": 1485,
+                    "fontsize": 25,
+                    "maxWidth": 590,
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 1,
+                    "xPosition": 385,
+                    "yPosition": 1545,
+                    "fontsize": 25,
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 2,
+                    "xPosition": 385,
+                    "yPosition": 1580,
+                    "fontsize": 35,
+                    "fontColor": "white"
+                }
+            ],
+            [
+                {
+                    "columnIndex": 3, 
+                    "xPosition": 1032,
+                    "yPosition": 1485,
+                    "fontsize": 25,
+                    "maxWidth": 590,
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 1,
+                    "xPosition": 1032,
+                    "yPosition": 1545,
+                    "fontsize": 25,
+                    "fontColor": "white"
+                },
+                {
+                    "columnIndex": 2,
+                    "xPosition": 1032,
+                    "yPosition": 1580,
+                    "fontsize": 35,
+                    "fontColor": "white"
+                }
+            ]
+        ]
+    },
+    "createPDF": true
+}

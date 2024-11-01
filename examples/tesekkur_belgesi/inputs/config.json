@@ -1,0 +1,23 @@
+{
+    "image": "../inputs/tesekkur.jpg",
+    "fileNameTemplate": [
+        1
+    ],
+    "inputData": {
+        "totalRowsToFill": 1,
+        "dataFile": "../inputs/data_tesekkur.numbers",
+        "textEntries": [
+            [
+                {
+                    "columnIndex": 1,
+                    "xPosition": 1000,
+                    "yPosition": 850,
+                    "fontsize": 90,
+                    "alignment": "center",
+                    "fontFamily": "PinyonScript",
+                    "fontColor": "black"
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "image": "../inputs/sertifika.jpg",
+    "fileNameTemplate": [
+        5, " - ", 4, " - ", 3
+    ],
+    "inputData": {
+        "totalRowsToFill": 1,
+        "dataFile": "../inputs/data_sertifika.numbers",
+        "textEntries": [
+            [
+                {
+                    "columnIndex": 3,
+                    "xPosition": 1000,
+                    "yPosition": 850,
+                    "fontsize": 90,
+                    "alignment": "center",
+                    "fontFamily": "PinyonScript",
+                    "fontColor": "black"
+                },
+                {
+                    "columnIndex": 2,
+                    "xPosition": 725,
+                    "yPosition": 973,
+                    "fontsize": 35,
+                    "maxWidth": 900,
+                    "alignment": "left",
+                    "fontFamily": "Nunito",
+                    "fontColor": "black"
+                }
+            ]
+        ]
+    }
+}
